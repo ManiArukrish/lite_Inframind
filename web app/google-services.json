@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "976024789569",
+    "firebase_url": "https://life-and-health-27b8f-default-rtdb.firebaseio.com",
+    "project_id": "life-and-health-27b8f",
+    "storage_bucket": "life-and-health-27b8f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:976024789569:android:69addb883e3275e8161cc0",
+        "android_client_info": {
+          "package_name": "com.example.life"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "976024789569-dhm0e8c6ehmdodq5haq5gkqgkosmlpm1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAo5LlsK4a1Hq6cVazTgzCOqPNAdRZ0xXc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "976024789569-dhm0e8c6ehmdodq5haq5gkqgkosmlpm1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
